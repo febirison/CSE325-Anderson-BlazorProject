@@ -9,8 +9,8 @@ A .NET Blazor web application (TBD) with user authentication, CRUD functionality
 ## Requirements
 - .NET Blazor with authentication and CRUD.
 - Deployed to Azure.
-- Trello: [(https://trello.com/invite/b/68cc7133d43f30ad9d62eeb2/ATTI3e399eed1a79b696028f10f1b86c798374D2FC6D/anderson-okai-blazor-project)]
-- GitHub: [https://github.com/febirison/]
+- Trello: (https://trello.com/invite/b/68cc7133d43f30ad9d62eeb2/ATTI3e399eed1a79b696028f10f1b86c798374D2FC6D/anderson-okai-blazor-project)
+- GitHub: https://github.com/febirison/
 
 ## Setup
 - Clone this repo: `git clone https://github.com/febirison/CSE325-Anderson-BlazorProject.git`
